@@ -1,5 +1,6 @@
 # Microsoft-Engage-Project
 **Face-Recognition**
+
 *Problem Statement:*
 To mark attendance of students of a school/university using face recognition technology and keep a track of their consistency meanwhile being able to keep a list of all those who have attended the classes
 
@@ -8,7 +9,9 @@ This project focuses on identifying/recognising and then capturing the face of t
 
 *Project Features:*
 ->The attendance of employees is automatically updated in the database along with the time and date of login which will help in keeping a check on how regular an employee is and also be able to keep a track is they are low on attendance. 
+
 ->The teacher themselves can add or remove from the static database available of the students.
+
 ->Notifications/Greetings to let the students know that the class has started and they also have the option of changing the language or the pace of the greetings.
 
 *How to run*
